@@ -188,12 +188,12 @@ contract CircleLayerDemo {
 
 <div align="center">
 
-| Phase | Timeline | Status | Key Milestones |
-|-------|----------|--------|----------------|
-| **Phase 1** | Q3 2024 | ✅ **Complete** | Testnet Launch, Core Features |
-| **Phase 2** | Q4 2024 | 🔄 **In Progress** | AI Security, Ecosystem Growth |
-| **Phase 3** | Q2 2025 | 🔮 **Planned** | Mainnet Launch, 50K+ TPS |
-| **Phase 4** | Q4 2025 | 🚀 **Future** | Global Expansion, Enterprise |
+| Phase | Status | Key Milestones |
+|-------|--------|----------------|
+| **Phase 1** | ✅ **Complete** | Testnet Launch, Core Features |
+| **Phase 2** | 🔄 **In Progress** | AI Security, Ecosystem Growth |
+| **Phase 3** | 🔮 **Planned** | Mainnet Launch, 50K+ TPS |
+| **Phase 4** | 🚀 **Future** | Global Expansion, Enterprise |
 
 </div>
 
