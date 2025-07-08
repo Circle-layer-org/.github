@@ -10,6 +10,5 @@ Circle Layer is a high-performance, EVM-compatible blockchain designed for scala
 [![Telegram](https://img.shields.io/badge/Telegram-@circlelayer-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/circlelayer)
 [![X (Twitter)](https://img.shields.io/badge/X-@circlelayer-000000?style=for-the-badge&logo=x)](https://x.com/circlelayer)
 [![Testnet](https://img.shields.io/badge/Testnet-Live-brightgreen?style=for-the-badge)](https://explorer-testnet.circlelayer.com)
-[![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)](https://github.com/Circle-layer-org/testnet-core-blockchain)
 
 </div>
